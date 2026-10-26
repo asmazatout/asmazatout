@@ -1,16 +1,29 @@
-## Hi there 👋
+ Hi, I'm Asma Zatout 👋
 
-<!--
-**asmazatout/asmazatout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at Blida 1 University, Algeria.
 
-Here are some ideas to get you started:
+🤖 Interested in Artificial Intelligence, Computer Vision, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+
+Programming: C, Python (learning)
+Tools: GitHub, Roboflow, Arduino, Tinkercad
+
+🚀 Experience
+
+AI Data Annotation SARL V_EYE
+ Annotated and labeled vehicle images using Roboflow.
+ Followed annotation guidelines to improve dataset consistency.
+
+ 🛠️ Projects
+
+LifeLine AI — Smart Medical QR Bracelet
+
+Arduino-based prototype designed to provide quick access to essential medical information.
+
+MyTurn — Queue Management Platform
+
+A project concept for managing queues and appointments in public services.
+
+📫 Connect with me
+ [LinkedIn](https://www.linkedin.com/in/asma-zatout-191934403/)
